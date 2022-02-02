@@ -1,0 +1,18 @@
+Link para download do Git:
+https://git-scm.com/downloads
+
+O Git Bash é um terminal estendido para uso do Git.
+
+Foram utilizados os comandos:
+
+git clone (para clonar o repositório e trabalhar no computador local)
+
+git add . ou git add -A ( para adicionar os arquivos na para o controle de versão local)
+
+git status (para verificar se a ação anterior foi realizada com sucesso)
+
+git commit -m "para incluir um comentário no arquivo a receber commit" 
+
+git push origin main (para enviar ao GitHub)
+
+
